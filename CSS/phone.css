@@ -1,0 +1,10 @@
+@media all and (max-width: 480px){
+	.column{
+		width:100%;
+		background-color: lightblue;
+	}
+	#Header {
+		width: 100%;
+		color: black;
+	}
+}
