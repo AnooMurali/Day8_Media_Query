@@ -2,6 +2,7 @@
 	.column {
 		width:100%;
 		background-color: lightgreen;
+		margin-left: 0;
 	}
 	#Header {
 		width: 100%;
